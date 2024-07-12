@@ -2,6 +2,8 @@
 
 Official code for TMLR'24 paper: DeepReShape: Redesigning Neural Networks for Efficient Private Inference.
 
+**Note: The code will be released by the end of August 2024.**
+
 ## Paper Link
 [DeepReShape: Redesigning Neural Networks for Efficient Private Inference](https://arxiv.org/abs/2304.10593)
 
